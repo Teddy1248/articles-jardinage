@@ -1,0 +1,42 @@
+[ 
+  {
+    "id": 1,
+    "titre": "Comment préparer son jardin au printemps",
+    "resume": "Les gestes essentiels pour réveiller votre jardin après l'hiver.",
+    "contenu": "Le printemps est une période clé pour relancer la vie au jardin. Il faut commencer par nettoyer les massifs, retirer les feuilles mortes, aérer la terre et tailler les végétaux abîmés. Ensuite, un apport de compost peut enrichir le sol avant les nouvelles plantations. Il est également conseillé de vérifier l’état des outils et du système d’arrosage. Enfin, le choix des premières plantations doit se faire en fonction du climat local et de l’exposition.",
+    "auteur": "Claire Martin",
+    "date": "2026-04-10",
+    "categorie": "Conseils",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 2,
+    "titre": "Les 5 plantes idéales pour un balcon fleuri",
+    "resume": "Une sélection simple pour apporter de la couleur à un petit espace extérieur.",
+    "contenu": "Même sur un balcon, il est possible de créer un espace végétal agréable et coloré. Les géraniums, pétunias, lavandes, bégonias et verveines sont parmi les plantes les plus adaptées. Elles demandent un entretien modéré et résistent bien selon les expositions. Il faut toutefois adapter l’arrosage à l’ensoleillement et choisir des contenants suffisamment profonds. Associer différentes hauteurs de plantes permet aussi de donner du relief à l’ensemble.",
+    "auteur": "Nicolas Bernard",
+    "date": "2026-04-09",
+    "categorie": "Plantes",
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 3,
+    "titre": "Arrosage : les erreurs les plus fréquentes",
+    "resume": "Trop arroser peut être aussi nocif que pas assez.",
+    "contenu": "L’arrosage est souvent mal maîtrisé, en particulier chez les débutants. L’erreur la plus fréquente consiste à arroser trop souvent mais en faible quantité. Cela favorise un enracinement superficiel. Il vaut mieux arroser plus abondamment mais moins souvent. Une autre erreur est d’arroser en pleine journée, ce qui augmente l’évaporation. Il faut aussi tenir compte du type de sol, du stade de croissance des plantes et de la météo.",
+    "auteur": "Sophie Laurent",
+    "date": "2026-04-07",
+    "categorie": "Entretien",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": 4,
+    "titre": "Créer un compost maison facilement",
+    "resume": "Un guide simple pour transformer ses déchets organiques en ressource utile.",
+    "contenu": "Le compostage permet de valoriser une grande partie des déchets organiques de la maison et du jardin. Pour démarrer, il faut alterner matières humides et matières sèches, puis veiller à une bonne aération. Les épluchures, marc de café, feuilles mortes et petits déchets végétaux conviennent très bien. En revanche, certains restes alimentaires attirent des nuisibles et sont à éviter. Avec un bon équilibre et un peu de patience, on obtient un amendement naturel très utile pour le sol.",
+    "auteur": "Julien Morel",
+    "date": "2026-04-05",
+    "categorie": "Écologie",
+    "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=1200&q=80"
+  }
+] 
